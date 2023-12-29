@@ -84,7 +84,7 @@ class MainActivity : AppCompatActivity() {
             searchView
                 .editText // Ganti dengan nama res/gaya Anda
                 .setOnEditorActionListener { _, _, _ ->
-                    searchBar.text = searchView.text
+                    searchBar.textView.text = searchView.text
                     searchView.hide()
                     tvSearchResultTitle.text = getString(R.string.search_result, searchBar.text)
 
