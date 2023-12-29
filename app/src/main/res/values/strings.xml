@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search_result">Search result %1$s</string>
+    <string name="app_title">Github User\'s Search</string>
+    <string name="searchbar_hint">Search or type username</string>
+    <string name="followers">%1$s Followers</string>
+    <string name="followings">%1$s Following</string>
+    <string name="ini_followers_fragment">Ini followers fragment</string>
+    <string name="ini_following_fragment">ini following fragment</string>
+    <string name="tab_followers_title">Followers</string>
+    <string name="tab_following_title">Following</string>
+    <string name="favorite_page">Favorite Page</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_page_title">Favorite Users</string>
+    <string name="share_message">I just saw %1$s profile on the Github User Apps. \nDon\'t forget to download Github User Apps by Dyandra supported by Dicoding only on Google Play Store!</string>
+</resources>
